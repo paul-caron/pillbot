@@ -6,3 +6,8 @@ This bot is actually not a language model but a middle man to a language model. 
 ## Install Llama
 
 There could be few different ways to install Llama language model on your computer but I will tell you how I did it. For me, I installed through DalaiJS. 
+
+Here is the link
+
+https://github.com/cocktailpeanut/dalai
+
