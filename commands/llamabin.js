@@ -1,4 +1,4 @@
-const Dalai = require('dalai');
+
 const { exec } = require("node:child_process");
 const { SlashCommandBuilder } = require('discord.js');
 
