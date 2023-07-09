@@ -7,7 +7,12 @@ This bot is actually not a language model but a middle man to a language model. 
 
 There could be few different ways to install Llama language model on your computer but I will tell you how I did it. For me, I installed through DalaiJS. 
 
-Here is the link
+Here is a link about dalai.js
 
 https://github.com/cocktailpeanut/dalai
 
+but basically just run this:
+
+```
+npx dalai llama install 7B
+```
