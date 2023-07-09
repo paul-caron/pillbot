@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "dalai": "^0.3.1",
+    "discord.js": "^14.11.0"
+  },
+  "name": "pillbot",
+  "version": "1.0.0",
+  "main": "pillbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
