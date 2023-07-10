@@ -29,6 +29,6 @@ You will need to have valid token, clienId and guildId for your bot. help here -
 
 ## Reason to ditch Dalai.js
 
-I tried the dalai.js api and it was easy to use. The problem was that it was really slow on my machine(i5 with 8GB ram) and so as you have noticed, I now only use the llama binary directly which is a lot faster. If your machine can handle the extra work of running dalai.js, then sure that might be better design in your case.
+I tried the dalai.js api and it was easy to use. The problem was that it was really slow on my machine(i5 with 8GB ram) and so as you have noticed, my bot now only use the llama binary directly which is a lot faster. If your machine can handle the extra work of running dalai.js, then sure that might be better design in your case.
 
 
