@@ -1,7 +1,7 @@
 # PillBot
 ## Awesome AI chatbot for Discord
 
-This bot is actually not a language model but a middle man to a language model. The model use is Llama which needs at least 4GB of ram to run on your computer (I recommend having at least 8GB or 16GB to have room for other things)
+This bot is actually not a language model but a middle man to a language model. The model used is Llama needs at least 4GB of ram to run on your computer (I recommend having at least 8GB or 16GB to have room for other things)
 
 ## Install Llama
 
