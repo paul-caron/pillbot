@@ -19,5 +19,5 @@ npx dalai llama install 7B
 
 ## Adjust the path in commands/llamabin.js
 
-You will want to adjust the path in commands/llamabin.js to point where the main binary is and where the model is.
+You will want to adjust the path in commands/llamabin.js to point where the main binary is and where the model is. (line 25)
 
