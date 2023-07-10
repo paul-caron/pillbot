@@ -26,3 +26,9 @@ You will want to adjust the path in commands/llamabin.js to point where the main
 ## Config.json
 
 You will need to have valid token, clienId and guildId for your bot. help here -> https://discordjs.guide/creating-your-bot/#using-config-json
+
+## Reason to ditch Dalai.js
+
+I tried the dalai.js api and it was easy to use. The problem was that it was really slow on my machine and so as you have noticed, I now only use the llama binary directly which is a lot faster. If your machine can handle the extra work of running dalai.js, then sure that might be better design in your case.
+
+
