@@ -21,3 +21,6 @@ npx dalai llama install 7B
 
 You will want to adjust the path in commands/llamabin.js to point where the main binary is and where the model is. (line 25)
 
+## Config.json
+
+You will need to have valid token, clienId and guildId for your bot. help here -> https://discordjs.guide/creating-your-bot/#using-config-json
